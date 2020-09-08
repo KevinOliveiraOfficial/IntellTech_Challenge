@@ -1,9 +1,9 @@
-## IntellTech_Challenge API RESTFUL
+# IntellTech_Challenge API RESTFUL
 **Todas as requisições de método POST devem ser enviadas em JSON, todas retornam um JSON;**
 
 **Para listagem de ambos os dados, basta dar um GET nas URLs apresentadas abaixo;**
 
-# Rota de Diretórios
+## Rota de Diretórios
 **Link da API para criação ou listagem de diretórios:**
 
 > /api/directory
@@ -14,7 +14,7 @@ Estrutura de dados para criação de Diretórios (método POST):
  
 *Retorna toda a estrutura de dados acima, juntamente com o novo **directory_guid** criado*
 
-# Rota de Formas Geométricas
+## Rota de Formas Geométricas
 **Link da API para criação ou listagem de Formas Geométricas:**
 
 > /api/geometric_shape
