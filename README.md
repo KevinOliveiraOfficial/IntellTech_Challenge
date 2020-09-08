@@ -4,7 +4,7 @@
 **Para listagem de ambos os dados, basta dar um GET nas URLs apresentadas abaixo;**
 
 ## Rota de Diretórios
-**Link da API para criação ou listagem de diretórios:**
+**Link da API para criação ou listagem de Diretórios:**
 
 > /api/directory
 
