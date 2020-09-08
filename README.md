@@ -1,7 +1,7 @@
 # IntellTech_Challenge API RESTFUL
-**Todas as requisições devem ser enviadas em JSON, todas retornam um JSON**
+**Todas as requisições devem ser enviadas em JSON, todas retornam um JSON;**
 
-**Para listagem de ambos os dados, basta dar um GET nas URLs apresentadas abaixo**
+**Para listagem de ambos os dados, basta dar um GET nas URLs apresentadas abaixo;**
 
 **Link da API para criação ou listagem de diretórios:**
 
