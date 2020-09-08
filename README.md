@@ -5,13 +5,11 @@
 
 Estrutura de dados para criação de Diretórios (método POST)
 
-*Enviar dados em JSON*
-  
+**Enviar dados em JSON**
 {
-
   "directory_name": *string não-vazio*
-
 }
+
 
 # Link da API para criação ou listagem de Formas Geométricas:
 > /api/geometric_shape
