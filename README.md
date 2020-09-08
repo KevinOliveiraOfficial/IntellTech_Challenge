@@ -3,7 +3,7 @@
 Link da API para criação ou listagem de diretórios:
 <localhost>/api/directory
 Estrutura de dados para criação de Diretórios (método POST)
->>Enviar dados em JSON<<
+>>Enviar dados em JSON
 {
   "directory_name": <string não-vazio>
 }
@@ -11,7 +11,7 @@ Estrutura de dados para criação de Diretórios (método POST)
 Link da API para criação ou listagem de Formas Geométricas:
 <localhost>/api/geometric_shape
 Estrutura de dados para criação de Formas Geométricas (método POST)
->>Enviar dados em JSON<<
+>>Enviar dados em JSON
 {
   "geometric_shape_directory_guidd": <string contendo o guid do diretório>,
   "geometric_shape_name": <string não-vazio>,
