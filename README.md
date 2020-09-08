@@ -1,5 +1,6 @@
 # IntellTech_Challenge
 **Todas as requisições devem ser enviadas em JSON**
+**Para listagem de ambos os dados, basta dar um GET nas URLs apresentadas abaixo.**
 
 # Link da API para criação ou listagem de diretórios:
 
@@ -20,10 +21,8 @@ Estrutura de dados para criação de Formas Geométricas (método POST)
 
 "geometric_shape_name": *string não-vazio*,
 
-"geometric_shape_type": *inteiro com valor **1** ou **2**,
+"geometric_shape_type": *inteiro com valor **1** ou **2***,
 
 "geometric_shape_color": *string não-vazio*,
 
 "geometric_shape_pixels": *inteiro diferente de 0*
-
-> Para listagem de ambos os dados, basta dar um GET nas URLs apresentadas acima.
