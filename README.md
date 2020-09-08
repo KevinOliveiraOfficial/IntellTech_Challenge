@@ -11,7 +11,7 @@ Estrutura de dados para criação de Diretórios (método POST):
 
  - directory_name: *string não-vazio*
  
- *Retorna o directory_guid e directory_name criado*
+*Retorna toda a estrutura de dados acima, juntamente com o novo **directory_guid** criado*
 
 **Link da API para criação ou listagem de Formas Geométricas:**
 
@@ -29,4 +29,4 @@ Estrutura de dados para criação de Formas Geométricas (método POST):
 
 - geometric_shape_pixels: *inteiro diferente de **0***
 
-*Retorna toda a estrutura de dados acima, juntamente com o novo geometric_shape_directory_guid criado*
+*Retorna toda a estrutura de dados acima, juntamente com o novo **geometric_shape_directory_guid** criado*
