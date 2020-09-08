@@ -2,7 +2,7 @@
 **Todas as requisições devem ser enviadas em JSON**
 **Para listagem de ambos os dados, basta dar um GET nas URLs apresentadas abaixo.**
 
-# Link da API para criação ou listagem de diretórios:
+**Link da API para criação ou listagem de diretórios:**
 
 > /api/directory
 
@@ -11,7 +11,7 @@ Estrutura de dados para criação de Diretórios (método POST):
  - directory_name: *string não-vazio*
 
 
-# Link da API para criação ou listagem de Formas Geométricas:
+**Link da API para criação ou listagem de Formas Geométricas:**
 
 > /api/geometric_shape
 
