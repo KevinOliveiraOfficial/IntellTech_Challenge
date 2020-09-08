@@ -1,5 +1,6 @@
 # IntellTech_Challenge
-**Todas as requisições devem ser enviadas em JSON**
+**Todas as requisições devem ser enviadas em JSON. Todas retornam um JSON**
+
 **Para listagem de ambos os dados, basta dar um GET nas URLs apresentadas abaixo.**
 
 **Link da API para criação ou listagem de diretórios:**
