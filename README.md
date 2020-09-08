@@ -23,6 +23,6 @@ geometric_shape_name: *string não-vazio*-
 
 geometric_shape_type: *inteiro com valor **1** ou **2***-
 
-geometric_shape_color: *string não-vazio*-
+-geometric_shape_color: *string não-vazio*-
 
-geometric_shape_pixels: *inteiro diferente de **0***-
+-geometric_shape_pixels: *inteiro diferente de **0***-
