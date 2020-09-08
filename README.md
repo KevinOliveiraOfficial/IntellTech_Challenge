@@ -6,7 +6,7 @@
 
 > /api/directory
 
-Estrutura de dados para criação de Diretórios (método POST)
+Estrutura de dados para criação de Diretórios (método POST):
 
  - directory_name: *string não-vazio*
 
@@ -15,7 +15,7 @@ Estrutura de dados para criação de Diretórios (método POST)
 
 > /api/geometric_shape
 
-Estrutura de dados para criação de Formas Geométricas (método POST)
+Estrutura de dados para criação de Formas Geométricas (método POST):
 
 - geometric_shape_directory_guid: *string contendo o guid do diretório*
 
