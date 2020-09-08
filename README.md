@@ -28,3 +28,5 @@ Estrutura de dados para criação de Formas Geométricas (método POST):
 - geometric_shape_color: *string não-vazio*
 
 - geometric_shape_pixels: *inteiro diferente de **0***
+
+*Retorna toda a estrutura de dados acima, juntamente com o novo geometric_shape_directory_guid criado*
