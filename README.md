@@ -10,6 +10,8 @@
 Estrutura de dados para criação de Diretórios (método POST):
 
  - directory_name: *string não-vazio*
+ 
+ *Retorna o directory_guid e directory_name criado*
 
 **Link da API para criação ou listagem de Formas Geométricas:**
 
