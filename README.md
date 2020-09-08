@@ -4,6 +4,7 @@
 > /api/directory
 
 Estrutura de dados para criação de Diretórios (método POST)
+
 *Enviar dados em JSON*
   
 {
